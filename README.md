@@ -93,7 +93,3 @@ In Beholder Reviews, this **omniscient entity** now turns its gaze upon cinema �
 This project is open-source and free for use, but **you must respect the power of the Beholder**. TMDb API data is subject to [their terms of use](https://www.themoviedb.org/documentation/api/terms-of-use).  
 
 👁️ **"Use my power wisely, mortal… for if you summon me too often, you may not like what I reveal!"** 🎬🔥  
-
----
-
-🔥 **How's that for an epic README?** Does this fit your vision, or should the Beholder whisper more secrets into my mind? 😈
