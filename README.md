@@ -1,7 +1,3 @@
-Here's your **README** in English, with a **legendary Beholder summoning theme**! 👁️🔥  
-
----
-
 # **👁️ Beholder Reviews – Summon the All-Seeing Demon of Cinema 🎬🔥**  
 
 **"Mortal, you dare seek knowledge of the forbidden films? Summon me, the Beholder, and gaze upon the truth! But beware… for not all movies are worthy of my gaze!"**  
